@@ -1,0 +1,22 @@
+<lensdatabase version="1">
+	<camera>
+		<maker>LGE</maker>
+		<model>Nexus 5</model>
+		<mount>lgeNexus5</mount>
+		<cropfactor>7.61</cropfactor>
+	</camera>
+
+	<lens>
+		<maker>LGE</maker>
+		<model>Nexus 5 &amp; compatibles (Standard)</model>
+                <model lang="en">fixed lens</model>
+                <aperture value="2.5" />
+		<focal value="3.97" />
+		<mount>lgeNexus5</mount>
+		<cropfactor>7.61</cropfactor>
+		<calibration>
+			<distortion focal="3.97" model="ptlens" a="-0.017" b="0.041" c="-0.013" />
+                        <vignetting focal="3.97" model="pa" aperture="2.5" distance="1000" k1="-1.2989" k2="1.0213" k3="-0.3397" />
+		</calibration>
+	</lens>
+</lensdatabase>

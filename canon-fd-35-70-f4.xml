@@ -1,0 +1,14 @@
+<lensdatabase>
+    <lens>
+        <maker>Canon</maker>
+        <model>FDn 35-70mm 1:4 + Lens Turbo II</model>
+        <mount>Sony E</mount>
+        <cropfactor>1.114</cropfactor>
+        <calibration>
+            <!-- Taken with Sony A6000 -->
+            <distortion model="ptlens" focal="35" a="0.009" b="-0.038" c="0.018" />
+            <distortion model="ptlens" focal="50" a="0.003" b="-0.009" c="0.002" />
+            <distortion model="ptlens" focal="70" a="0.001" b="-0.001" c="-0.004" />
+        </calibration>
+    </lens>
+</lensdatabase>
