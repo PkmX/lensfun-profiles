@@ -6,6 +6,7 @@ Install the corresponding profile to `~/.local/share/lensfun/`.
 
 ## Profiles
 * Canon FDn 35-70mm 1:4 + Lens Turbo II on Sony ILCE-6000 (1.114x)
+* Canon FDn 50mm 1:1.4 + Lens Turbo II on Sony ILCE-6000 (1.114x)
 * Google Nexus 5 3.97mm f/2.5 (7.61x)
 
 ## License

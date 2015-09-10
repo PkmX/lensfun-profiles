@@ -1,0 +1,12 @@
+<lensdatabase>
+    <lens>
+        <maker>Canon</maker>
+        <model>FDn 50mm 1:1.4 + Lens Turbo II</model>
+        <mount>Sony E</mount>
+        <cropfactor>1.114</cropfactor>
+        <calibration>
+            <!-- Taken with Sony A6000 -->
+            <distortion model="ptlens" focal="50" a="0.009" b="-0.035" c="0.032" />
+        </calibration>
+    </lens>
+</lensdatabase>
