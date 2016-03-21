@@ -1,0 +1,14 @@
+<lensdatabase>
+    <lens>
+        <maker>Tamron</maker>
+        <model>SP 35-80mm 1:2.8-3.8 + Lens Turbo II</model>
+        <mount>Sony E</mount>
+        <cropfactor>1.114</cropfactor>
+        <calibration>
+            <!-- Taken with Sony A6000 -->
+            <distortion model="ptlens" focal="35" a="0.006" b="-0.035" c="0.017" />
+            <distortion model="ptlens" focal="50" a="0" b="0.003" c="-0.012" />
+            <distortion model="ptlens" focal="80" a="0.006" b="-0.02" c="0.018" />
+        </calibration>
+    </lens>
+</lensdatabase>
