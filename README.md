@@ -11,4 +11,4 @@ Install the corresponding profile to `${XDG_DATA_HOME}/lensfun/` (`~/.local/shar
 * Google Nexus 5 3.97mm f/2.5 (7.61x)
 
 ## License
-All profiles are released under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
