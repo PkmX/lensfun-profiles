@@ -1,0 +1,13 @@
+<lensdatabase>
+    <lens>
+        <maker>Sigma</maker>
+        <model>E 30mm F1.4</model>
+        <model lang="en">Sigma 30mm 1:1.4 DC DN</model>
+        <mount>Sony E</mount>
+        <cropfactor>1.534</cropfactor>
+        <calibration>
+            <!-- Taken with Sony A6000 -->
+            <distortion model="ptlens" focal="30" a="-0.015" b="0.034" c="-0.049" />
+        </calibration>
+    </lens>
+</lensdatabase>
